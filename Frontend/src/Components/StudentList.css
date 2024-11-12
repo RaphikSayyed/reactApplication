@@ -1,0 +1,39 @@
+#swal2-title {
+    font-size: 1.4rem;
+    padding: 10px;
+}
+
+.swal2-input { 
+    font-size: 1rem;
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px 10px;
+    outline: none;
+    box-shadow: none;
+}
+
+.bottomMenu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.swal2-html-container label {
+    display: inline-block;
+    text-align: left;
+    width: 100%;
+    font-weight: 700;
+    color: #000;
+    font-size: 1rem;
+}
+.swal2-close{
+    display: flex;
+    font-size: 1rem !important;
+    padding: 10px;
+}
+.swal2-close:hover span{
+    display: flex;
+    font-size: 1rem;
+    /* padding: 10px; */
+}
